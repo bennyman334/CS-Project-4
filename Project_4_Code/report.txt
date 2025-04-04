@@ -1,0 +1,10 @@
+FlightManager::load_flight_data()
+
+If N is the total number of flights in the data base and F is the average number of flights associated with each airport
+The time complexity complexity will be roughly: O(NlogF)
+
+
+FlightManager::find_flights()
+
+If F is the average number of flights associated with each airport
+The time complexity will be rougly: O(FlogF)
